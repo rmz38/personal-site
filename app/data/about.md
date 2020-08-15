@@ -24,11 +24,11 @@ Hi, my name is Rose. I’m a rising junior at Cornell University. I believe that
 
 - At 15, I became more interested in learning to program in general, and took an Introduction to Computer Science course at my high school. I learned Java as my first programming language and made a game on Scratch that was voted "Most Creative Game" by my classmates, which was a mashup between Flappy Bird and Angry Birds
 
-- Also at 15, I came up with the idea to connect a toy car controller to a singing birthday card. I created this vision by finding a cheap RMC car and a birthday card that would scream when opened. Then, I attached the board of the car to the circuit of the birthday card, so that whenever a button was pressed on the remote the card would scream. I tested my creation by taping it under a classroom chair and triggering it any time a classmate sat down. I made a lot of friends that day!
+- Also at 15, I came up with the idea to connect a toy car controller to a singing birthday card. I created this vision by finding a cheap RMC car and a birthday card that would scream when opened. Then, I attached the board of the car to the circuit of the birthday card, so that whenever a button was pressed on the remote the card would scream. I tested my creation by taping it under a classroom chair and triggering it any time a classmate sat down.
 
-- At 16, I wanted to create more software projects and I was still interested in becoming a "hackerman". To this end, I used AutoHotkey to create a script for finding a student's school account password. Due to every student's school account password being a 4-digit number, I had the script enter every number in 0-9999 inclusive (padded with 0s appropriately) to login into an account. Unfortunately I had the script enter input on the webpage, which meant it could take up to 17 hours to enter every number.
+- At 16, I wanted to create more software projects and I was still interested in becoming a "hackerman". To this end, I used AutoHotkey to create a script for finding a student's school account password. Due to every student's school account password being a 4-digit number, I had the script enter every number in 0-9999 inclusive (padded with 0s appropriately) to login into an account. Unfortunately I had the script enter input on the webpage, which meant it could take up to 17 hours to enter every number and refresh the page.
 
-- At 17, I enjoyed my AP Computer Science class and created one of my first, matured projects on it. It was a website that colored in black and white images by taking a given color and converting the values of the image matrix to shades of that color. Because of this project, my teacher encouraged me to study computer science in college.
+- At 17, I enjoyed my AP Computer Science class and created one of my first, matured projects on it. It was a website that [colored in black and white images](/projects) by taking a given color and converting the values of the image matrix to shades of that color. Because of this project, my teacher encouraged me to study computer science in college.
 
 - At 18, I enrolled in Cornell University's College of Engineering as a Computer Science major. I then joined as a club officer to the student organizations Association of Computer Science Undergraduates and eSports at Cornell. I found great mentors in these orgs who taught me professional skills and leadership!
 
@@ -47,7 +47,6 @@ As I grow older, I'll come up with more stories to tell :)
 - Karaoke
 - Giving advice
 - Poetry
-- Finding crazy and stupid ideas to surprise people, mostly in games and projects
 
 #### Fun facts
 
