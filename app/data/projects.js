@@ -39,7 +39,7 @@ const data = [
     link: 'https://github.com/rmz38/Color-Changer',
     image: '/images/projects/color-changer.png',
     date: '2017-6-10',
-    desc: 'One of the first completed projects I ever made! It\'s made with only HTML, CSS, and JavaScript.The css and usability is not perfect, and I don\'t plan to polish it in the future, but it includes the functionality I wanted it to have.'
+    desc: 'One of the first completed projects I ever made! It\'s made with only HTML, CSS, and JavaScript. The CSS and usability is not perfect, and I don\'t plan to polish it in the future, but it includes the functionality I wanted it to have.'
   },
 ];
 
