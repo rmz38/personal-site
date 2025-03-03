@@ -87,7 +87,7 @@ const Contact = () => {
           </div>
         </header>
         <div className="email-at">
-          <p>Feel free to get in touch. You can email me at <a href="mailto:meizhou416@gmail.com">meizhou416@gmail.com</a></p>
+          <p>Feel free to get in touch. You can message me on <a href="https://www.linkedin.com/in/rose-zhou-752744177/">Linkedin</a></p>
         </div>
         <ul className="icons">
           {data.map((s) => (
