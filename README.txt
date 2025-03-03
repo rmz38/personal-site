@@ -1,1 +1,1 @@
-This is my personal site for details about me, my resume, and my software projects. This is heavily adapted from Michael D'Angelo's personal site https://github.com/mldangelo/personal-site. More details about this project may be found in original_README.md
+This is my personal site for details about me, my resume, and my software projects. The template is referenced from Michael D'Angelo's personal site https://github.com/mldangelo/personal-site.
